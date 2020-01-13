@@ -1,5 +1,16 @@
 # Tips
 
+/!\ /!\ /!\ Use at your own risks /!\ /!\ /!\ 
+
+## Firefox
+
+### Prevents copy-paste disabling on website
+
+```bash
+about:config
+dom.event.clipboardevents.enabled => false
+```
+
 ## Git
 
 ### Useful shortcuts
