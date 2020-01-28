@@ -36,3 +36,7 @@ Useful to avoid multiple IDE-specific .gitignore files in project .gitignore
 touch $HOME/.gitignore
 git config --global core.excludesfile $HOME/.gitignore
 ```
+
+## Useful tools
+
+* [Rector](https://getrector.org/) - PHP refactoring automation
