@@ -39,4 +39,5 @@ git config --global core.excludesfile $HOME/.gitignore
 
 ## Useful tools
 
+* [Image data cleaner](https://github.com/codepo8/image-data-cleaner) - Javascript tool to remove exif data from images.
 * [Rector](https://getrector.org/) - PHP refactoring automation
