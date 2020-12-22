@@ -28,6 +28,12 @@ git config --global alias.co checkout
 git config --global alias.st status
 ```
 
+### Set meld as merge tool
+
+```bash
+git config --global merge.tool meld
+```
+
 ### User-specific gitignore
 
 Useful to avoid multiple IDE-specific .gitignore files in project .gitignore
