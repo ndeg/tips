@@ -37,6 +37,21 @@ touch $HOME/.gitignore
 git config --global core.excludesfile $HOME/.gitignore
 ```
 
+## Video
+
+### How to get technical information about a video
+
+```bash
+mediainfo myfile.avi
+```
+
+### How to rotate a video to 90 degrees.
+
+```bash
+ffmpeg -i input -vcodec libx264 -preset medium -crf 24 -threads 0 -vf transpose=1 -acodec copy output.mkv
+```
+
+
 ## Useful tools
 
 * [Image data cleaner](https://github.com/codepo8/image-data-cleaner) - Javascript tool to remove exif data from images.
