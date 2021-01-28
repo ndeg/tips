@@ -61,5 +61,6 @@ ffmpeg -i input -vcodec libx264 -preset medium -crf 24 -threads 0 -vf transpose=
 
 ## Useful tools
 
-* [Image data cleaner](https://github.com/codepo8/image-data-cleaner) - Javascript tool to remove exif data from images.
-* [Rector](https://getrector.org/) - PHP refactoring automation
+* [Image data cleaner](https://github.com/codepo8/image-data-cleaner) - Javascript tool to remove exif data from images
+* [Parsica](https://parsica.verraes.net/) - Build robust parser in PHP
+* [Rector](https://getrector.org/) - PHP refactoring automation tool
