@@ -1,6 +1,6 @@
 # Tips
 
-/!\ /!\ /!\ Use at your own risks /!\ /!\ /!\ 
+/!\ /!\ /!\ Use at your own risks /!\ /!\ /!\
 
 ## Firefox
 
@@ -15,7 +15,7 @@ dom.event.clipboardevents.enabled => false
 
 ### Useful shortcuts
 
-These commands will let you use shorten git commands, as : 
+These commands will let you use shorten git commands, as :
 *  `git br`
 *  `git ci`
 *  `git co`
@@ -26,6 +26,7 @@ git config --global alias.br branch
 git config --global alias.ci commit
 git config --global alias.co checkout
 git config --global alias.st status
+git config --global alias.wip "for-each-ref --sort='authordate:iso8601' --format=' %(color:green)%(authordate:relative)%09%(color:white)%(refname:short)' refs/heads"
 ```
 
 ### Set meld as merge tool
