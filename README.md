@@ -60,7 +60,7 @@ ffmpeg -i input -vcodec libx264 -preset medium -crf 24 -threads 0 -vf transpose=
 
 
 ## Useful tools
-
+* [Git Elephant](https://github.com/matteosister/GitElephant) - Abstraction layer to manage git repositories with PHP.
 * [Image data cleaner](https://github.com/codepo8/image-data-cleaner) - Javascript tool to remove exif data from images
 * [Parsica](https://parsica.verraes.net/) - Build robust parser in PHP
 * [Rector](https://getrector.org/) - PHP refactoring automation tool
