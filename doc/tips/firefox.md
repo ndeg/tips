@@ -7,4 +7,4 @@ about:config
 dom.event.clipboardevents.enabled => false
 ```
 
-[Back to index](../README.md)
+[Back to index](../../README.md)

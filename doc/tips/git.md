@@ -31,4 +31,4 @@ touch $HOME/.gitignore
 git config --global core.excludesfile $HOME/.gitignore
 ```
 
-[Back to index](../README.md)
+[Back to index](../../README.md)

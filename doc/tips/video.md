@@ -12,4 +12,4 @@ mediainfo myfile.avi
 ffmpeg -i input -vcodec libx264 -preset medium -crf 24 -threads 0 -vf transpose=1 -acodec copy output.mkv
 ```
 
-[Back to index](../README.md)
+[Back to index](../../README.md)
