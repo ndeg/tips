@@ -4,9 +4,9 @@
 
 ## Tips
 
-* [Firefox](firefox.md)
-* [Git](git.md)
-* [Video](video.md)
+* [Firefox](tips/firefox.md)
+* [Git](tips/git.md)
+* [Video](tips/video.md)
 
 ## Useful tools
 * [Git Elephant](https://github.com/matteosister/GitElephant) - Abstraction layer to manage git repositories with PHP.
