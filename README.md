@@ -13,3 +13,7 @@
 * [Image data cleaner](https://github.com/codepo8/image-data-cleaner) - Javascript tool to remove exif data from images
 * [Parsica](https://parsica.verraes.net/) - Build robust parser in PHP
 * [Rector](https://getrector.org/) - PHP refactoring automation tool
+
+## Useful conferences
+### Software architecture
+* [fr] [Des tests unitaires pour nos règles de conception](https://www.youtube.com/watch?v=PB3NWOwBCyQ) by Frédéric Bouchery
