@@ -6,6 +6,7 @@
 
 * [Firefox](doc/tips/firefox.md)
 * [Git](doc/tips/git.md)
+* [PostgreSQL](doc/tips/postgresql.md)
 * [Video](doc/tips/video.md)
 
 ## Useful tools
