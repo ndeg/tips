@@ -1,5 +1,21 @@
 # PostgreSQL
 
+## Databases
+
+Gets all databases :
+
+```sql
+\l
+```
+
+## Exports
+
+To get a SQL query result exported to CSV :
+
+```sql
+COPY (SELECT 1 AS col1, 2 AS col2) TO '/tmp/query.csv';
+```
+
 ## Executes SQL queries from a given file
 
 ```bash
@@ -10,12 +26,12 @@ psql --host=[host] --user=[user] [dbaname] -f [/path/to/file.sql]
 
 ### Size of a table including indexes
 
-```bash
+```sql
 SELECT pg_table_size('tablename');
 ```
 ### Vacuum a table
 
-```bash
+```sql
 VACUUM (VERBOSE, FULL) [tablename];
 ```
 
