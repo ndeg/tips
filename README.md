@@ -6,6 +6,7 @@
 
 * [Firefox](doc/tips/firefox.md)
 * [Git](doc/tips/git.md)
+* [Makefile](doc/tips/makefile.md)
 * [PostgreSQL](doc/tips/postgresql.md)
 * [Video](doc/tips/video.md)
 
