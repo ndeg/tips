@@ -18,3 +18,7 @@
 ## Useful conferences
 ### Software architecture
 * [fr] [Des tests unitaires pour nos règles de conception](https://www.youtube.com/watch?v=PB3NWOwBCyQ) by Frédéric Bouchery
+
+## Useful posts
+### Coding best practices
+* [fr] [Writing readable PHP code](https://www.jimmyklein.fr/5-mauvaises-habitudes-a-perdre-en-php/)
