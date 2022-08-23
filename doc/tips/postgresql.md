@@ -27,7 +27,7 @@ psql --host=[host] --user=[user] [dbaname] -f [/path/to/file.sql]
 ### Size of a table including indexes
 
 ```sql
-SELECT pg_table_size('tablename');
+SELECT pg_total_relation_size('tablename');
 ```
 ### Vacuum a table
 
