@@ -25,4 +25,4 @@
 * [fr] [Writing readable PHP code](https://www.jimmyklein.fr/5-mauvaises-habitudes-a-perdre-en-php/)
 
 ### Developer eXperience
-* [en] (Self-documented makefile)(https://marmelab.com/blog/2016/02/29/auto-documented-makefile.html)
+* [en] [Self-documented makefile](https://marmelab.com/blog/2016/02/29/auto-documented-makefile.html)
