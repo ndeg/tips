@@ -19,6 +19,7 @@
 ## Useful conferences
 ### Software architecture
 * [fr] [Des tests unitaires pour nos règles de conception](https://www.youtube.com/watch?v=PB3NWOwBCyQ) by Frédéric Bouchery
+* [fr] [Le temps, la dépendance oubliée](https://afup.org/talks/2795-le-temps-la-dependance-oubliee) by Baptiste Langlade
 
 ## Useful posts
 ### Coding best practices
