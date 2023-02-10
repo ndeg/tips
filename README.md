@@ -20,6 +20,9 @@
 * [fr] [Des tests unitaires pour nos règles de conception](https://www.youtube.com/watch?v=PB3NWOwBCyQ) by Frédéric Bouchery
 * [fr] [Le temps, la dépendance oubliée](https://afup.org/talks/2795-le-temps-la-dependance-oubliee) by Baptiste Langlade
 
+### Testing
+* [fr] [Trop de mock tue le test : ce que l'archi hexagonale a changé](https://www.youtube.com/watch?v=rSO1y3lCBfk) by Jean-Marie Lamodière
+
 ## Useful posts
 ### Coding best practices
 * [fr] [Writing readable PHP code](https://www.jimmyklein.fr/5-mauvaises-habitudes-a-perdre-en-php/)
