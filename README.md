@@ -29,3 +29,6 @@
 
 ### Developer eXperience
 * [en] [Self-documented makefile](https://marmelab.com/blog/2016/02/29/auto-documented-makefile.html)
+
+### Software Craftanship
+* [fr] [Artisan-développeur](https://gb-prod.fr/2016/06/12/artisan-developpeur.html)
