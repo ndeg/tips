@@ -5,6 +5,7 @@
 ## Tips
 
 * [Crontab](doc/tips/crontab.md)
+* [Curl](doc/tips/curl.md)
 * [Firefox](doc/tips/firefox.md)
 * [Git](doc/tips/git.md)
 * [Makefile](doc/tips/makefile.md)
