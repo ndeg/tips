@@ -31,4 +31,16 @@ touch $HOME/.gitignore
 git config --global core.excludesfile $HOME/.gitignore
 ```
 
+## User-specific starting branch when initiating repositories
+
+```bash
+git config --global init.defaultBranch <branch-name>
+```
+
+## Renaming main branch
+
+```bash
+git branch -m <branch-name>
+```
+
 [Back to index](../../README.md)
